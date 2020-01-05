@@ -1,0 +1,135 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "email": "john@email.com",
+      "companyId": 1
+    },
+    {
+      "id": 1,
+      "name": "Micheal",
+      "email": "micheal@email.com",
+      "companyId": 2
+    },
+    {
+      "id": 1,
+      "name": "Peter",
+      "email": "peter@email.com",
+      "companyId": 3
+    },
+    {
+      "id": 1,
+      "name": "Bedi",
+      "email": "bedi@email.com",
+      "companyId": 2
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Apple company description ....."
+    },
+    {
+      "id": 2,
+      "name": "IBM",
+      "description": "IBM company description ....."
+    },
+    {
+      "id": 3,
+      "name": "Microsoft",
+      "description": "Microsoft company description ....."
+    }
+  ],
+  "navecom": [
+    {
+      "id": 1,
+      "name": "Clearance & Offer",
+      "path": "Clearance&Offer",
+      "submenu": [
+        {
+          "ShopOffers": [
+            {
+              "id": 1.11,
+              "name": "Home & Garden Offer",
+              "path": "Home&GardenOffer"
+            },
+            {
+              "id": 1.12,
+              "name": "Womenswear Offer",
+              "path": "WomenswearOffer"
+            }
+          ],
+          "FashionHighlights": [
+            {
+              "id": 1.21,
+              "name": "Womenswear Offer",
+              "path": "WomenswearOffer"
+            },
+            {
+              "id": 1.22,
+              "name": "70% Offer",
+              "path": "70%Offer"
+            },
+            {
+              "id": 1.23,
+              "name": "60% Offer",
+              "path": "60%Offer"
+            },
+            {
+              "id": 1.24,
+              "name": "50% Offer",
+              "path": "50%Offer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Home & Garden",
+      "path": "Home&Garden"
+    },
+    {
+      "id": 3,
+      "name": "Furniture & Light",
+      "path": "Furniture&Light"
+    },
+    {
+      "id": 4,
+      "name": "Electrical",
+      "path": "Electrical"
+    },
+    {
+      "id": 5,
+      "name": "Woman",
+      "path": "Woman"
+    },
+    {
+      "id": 6,
+      "name": "Men",
+      "path": "Men"
+    },
+    {
+      "id": 7,
+      "name": "Beauty",
+      "path": "Beauty"
+    },
+    {
+      "id": 8,
+      "name": "Baby & Child",
+      "path": "Baby&Child"
+    },
+    {
+      "id": 9,
+      "name": "Sport & Leisure",
+      "path": "Sport&Leisure"
+    },
+    {
+      "id": 10,
+      "name": "Gifts",
+      "path": "Gifts"
+    }
+  ]
+}
