@@ -7,6 +7,7 @@
 
 <br />
 
-<p>Installation: npm i json-server</p>
 
-<p>Run server: npm run json:server</p>
+<p><b>Installation:</b> npm i json-server</p>
+
+<p><b>Run server:</b> npm run json:server</p>
